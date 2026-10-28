@@ -1,0 +1,9 @@
+
+Name = Ajinkya Ananda Mhangore.
+Date = 25-10-2026.
+Description = AddressBook project
+I/P = Enter your choice: 5
+O/P = NAME           PHONE        EMAIL
+     Ajinkya Ananda Mhangore  7058164408  ajinkyamhangore10@gmail.com
+     Rahul                   9876543211  rahul@gmail.com
+     Sneha                   9876543212  sneha@gmail.com
